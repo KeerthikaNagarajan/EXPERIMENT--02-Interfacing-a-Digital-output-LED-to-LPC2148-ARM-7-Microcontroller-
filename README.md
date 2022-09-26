@@ -142,13 +142,13 @@ int main()
 
 ## Output screen shots :
 
-###LED OFF:
+##LED OFF:
 ![off](https://user-images.githubusercontent.com/93427089/192270024-158193d4-8b28-4838-83c0-e10dd556bb48.jpeg)
 
-###LED ON:
+##LED ON:
 ![on](https://user-images.githubusercontent.com/93427089/192270044-125eadfa-662a-405f-9426-53e8c74e58ab.jpeg)
 
-###CIRCUIT DIAGRAM:
+##CIRCUIT DIAGRAM:
 ![ci](https://user-images.githubusercontent.com/93427089/192270062-1cb147e5-836a-451c-8e93-9683cae950ab.png)
 
 
